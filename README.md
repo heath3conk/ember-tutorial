@@ -1,2 +1,2 @@
 # ember-tutorial
-Tutorial on Lynda.com
+Tutorial on Treehouse
